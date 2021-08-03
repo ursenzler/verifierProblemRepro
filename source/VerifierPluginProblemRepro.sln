@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "VerifierPluginProblemRepro", "VerifierPluginProblemRepro\VerifierPluginProblemRepro.fsproj", "{6E6EC191-83CD-4AF9-A166-326879F58C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpWorks", "CSharpWorks\CSharpWorks.csproj", "{F34C5CB9-4414-4AAE-8E6B-06A8EDB1446C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E6EC191-83CD-4AF9-A166-326879F58C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6EC191-83CD-4AF9-A166-326879F58C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6EC191-83CD-4AF9-A166-326879F58C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6EC191-83CD-4AF9-A166-326879F58C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34C5CB9-4414-4AAE-8E6B-06A8EDB1446C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34C5CB9-4414-4AAE-8E6B-06A8EDB1446C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34C5CB9-4414-4AAE-8E6B-06A8EDB1446C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34C5CB9-4414-4AAE-8E6B-06A8EDB1446C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
